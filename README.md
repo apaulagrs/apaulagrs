@@ -23,6 +23,6 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ana-JS" height="30" width="40" src=""
+  <img align="center" alt="Ana-JS" height="30" width="40" src="./javascript.svg"
   
 </div>
