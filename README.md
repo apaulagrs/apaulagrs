@@ -1,8 +1,11 @@
-![apaulagrs GitHub stats](https://github-readme-stats.vercel.app/api?username=apaulagrs&count_private=true&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apaulagrs&layout=compact&theme=cobalt)](https://github.com/apaulagrs/github-readme-stats)
-
 
 ### Hi, I'm Ana Paula 👋
+
+##
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=apaulagrs&count_private=true&show_icons=true&theme=cobalt"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulagrs&layout=compact&theme=cobalt">
+
+##
 
 - 💬 Ask me about my passions
 
