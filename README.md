@@ -5,6 +5,22 @@
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=apaulagrs&count_private=true&show_icons=true&theme=cobalt"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulagrs&layout=compact&theme=cobalt">
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ana-LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Ana-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ana-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ana-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ana-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ana-DOCKER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Ana-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ana-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Ana-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Ana-SLACK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
+  <img align="center" alt="Ana-TRELLO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+</div>
+
 ##        
 
 - 💬 Ask me about my passions
@@ -22,18 +38,3 @@
 
 ##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-JS" height="30" width="40" src="javascript.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="css.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="html.svg">
-  <img align="center" alt="Ana-DOCKER" height="30" width="40" src="docker.svg">
-  <img align="center" alt="Ana-GIT" height="30" width="40" src="git.svg">
-  <img align="center" alt="Ana-GITHUB" height="30" width="40" src="github.svg">
-  <img align="center" alt="Ana-NODE.JS" height="30" width="40" src="node-js.svg">
-  <img align="center" alt="Ana-SLACK" height="30" width="40" src="slack.svg">
-  <img align="center" alt="Ana-MYSQL" height="30" width="40" src="mysql.svg">
-  <img align="center" alt="Ana-BOOTSTRAP" height="30" width="40" src="bootstrap.svg">
-  <img align="center" alt="Ana-LINUX" height="30" width="40" src="linux.svg">
-  <img align="center" alt="Ana-TRELLO" height="30" width="40" src="trello.svg">
-  <img align="center" alt="Ana-JS" height="30" width="40" src="react.svg">
-</div>
