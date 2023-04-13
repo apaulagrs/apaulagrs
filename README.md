@@ -1,7 +1,10 @@
 
 ### Hi, I'm Ana Paula 👋
 
-##          
+Since I was little girl, I feel that I have a connection with Technology. So I decided to give voice for my long-forgotten desire: to work with technology. Welcome to my passion!
+
+
+## 
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=apaulagrs&count_private=true&show_icons=true&theme=cobalt"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulagrs&layout=compact&theme=cobalt">
 
