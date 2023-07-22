@@ -1,7 +1,8 @@
 
-### Hi, I'm Ana Paula 👋
+## Hello stranger! 👽
+###I'm Ana Paula 👋
 
-Since I was little girl, I feel that I have a connection with Technology. So I decided to give voice for my long-forgotten desire: to work with technology. Welcome to my passion!
+Welcome to my passion!
 
 
 ## 
@@ -30,7 +31,7 @@ Since I was little girl, I feel that I have a connection with Technology. So I d
 
 - 😄 Pronouns: she/her
 
-- 👽 Fun fact: I have a degree in Social Sciences and I love talking about aliens and the universe.
+- 👽 Fun fact: I love talking about aliens, universe and astrology.
 
 - 📫 How to reach me:
 <div> 
