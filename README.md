@@ -1,6 +1,7 @@
 
 ## Hello stranger! 👽
-###I'm Ana Paula 👋
+
+I'm Ana Paula 👋
 
 Welcome to my passion!
 
