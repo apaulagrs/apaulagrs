@@ -4,7 +4,6 @@
 
 Welcome to my passion!
 
-
 ## 
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=apaulagrs&count_private=true&show_icons=true&theme=cobalt"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulagrs&layout=compact&theme=cobalt">
